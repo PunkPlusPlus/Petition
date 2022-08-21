@@ -1,0 +1,24 @@
+H1 {
+    color: #04320e;
+    font-size: 200%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+  }
+P {
+    font-size: 120%;
+    color: #04320e;
+    text-align: center;
+  }
+a {
+    color:rgb(26, 147, 12);
+    text-align: center;
+}
+head {
+    background:"dwn.png";
+   }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
