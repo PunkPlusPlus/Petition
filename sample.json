@@ -1,0 +1,9 @@
+{
+  "id": 10,
+  "name": "Id_dev",
+  "isAdmin": true,
+  "roles": {
+    "Admin": 0,
+    "Default": 1
+  }
+}
